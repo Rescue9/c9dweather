@@ -84,3 +84,6 @@ lint/tmp/
 
 # vscode
 .vscode
+
+# androidide
+.androidide
