@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.corridor9design.c9dweather"
-    compileSdk = 33
+    compileSdk = 34
     
     defaultConfig {
         applicationId = "com.corridor9design.c9dweather"
         minSdk = 21
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
         
